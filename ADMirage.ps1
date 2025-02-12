@@ -6,7 +6,9 @@
 .DESCRIPTION
     Creates decoy AD users, computers, and groups for deception-based security.
 .AUTHOR
-    Nikhil Mittal (@nikhil_mitt)
+    Nikhil Mittal (@nikhil_mitt) 
+.Co-Author
+    Kvngtheta (@No0B@ckSappi3)
 .LINK
     https://www.labofapenetrationtester.com/2018/10/deploy-deception.html
     https://github.com/samratashok/Deploy-Deception
